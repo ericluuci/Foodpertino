@@ -1,5 +1,5 @@
-# omnifood
-Tutorial Project - html5, css3
+# Foodpertino
+Practice Assignment with online tutorial Template.
 
 Using html5 and css3 for front-end development.
 
